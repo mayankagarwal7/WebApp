@@ -1,4 +1,4 @@
-package acceptancetest;
+package acceptancetest ;
 
 import java.util.concurrent.TimeUnit;
 import org.openqa.selenium.By;
